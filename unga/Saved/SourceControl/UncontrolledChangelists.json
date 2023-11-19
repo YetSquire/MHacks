@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/users/Public/Documents/Unreal Projects/UE521/unga/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/users/Public/Documents/Unreal Projects/UE521/unga/Content/timewarning.uasset",
+				"C:/users/Public/Documents/Unreal Projects/UE521/unga/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/users/Public/Documents/Unreal Projects/UE521/unga/Content/5minTimeWarning.uasset",
+				"C:/users/Public/Documents/Unreal Projects/UE521/unga/Content/FbxScene_classroomsmollr.uasset",
+				"C:/users/Public/Documents/Unreal Projects/UE521/unga/Content/squirrel.uasset",
+				"C:/users/Public/Documents/Unreal Projects/UE521/unga/Content/university-of-michigan-squirrel-v0-azpr5necgjqa1.uasset"
+			]
+		}
+	]
+}
